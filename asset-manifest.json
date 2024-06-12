@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/limwengni/emote-resizer.git/static/css/main.13953ec5.css",
-    "main.js": "/limwengni/emote-resizer.git/static/js/main.772fbec7.js",
-    "static/js/453.f9ba44e8.chunk.js": "/limwengni/emote-resizer.git/static/js/453.f9ba44e8.chunk.js",
-    "index.html": "/limwengni/emote-resizer.git/index.html",
-    "main.13953ec5.css.map": "/limwengni/emote-resizer.git/static/css/main.13953ec5.css.map",
-    "main.772fbec7.js.map": "/limwengni/emote-resizer.git/static/js/main.772fbec7.js.map",
-    "453.f9ba44e8.chunk.js.map": "/limwengni/emote-resizer.git/static/js/453.f9ba44e8.chunk.js.map"
+    "main.css": "/emote-resizer/static/css/main.13953ec5.css",
+    "main.js": "/emote-resizer/static/js/main.99c198aa.js",
+    "static/js/453.f9ba44e8.chunk.js": "/emote-resizer/static/js/453.f9ba44e8.chunk.js",
+    "index.html": "/emote-resizer/index.html",
+    "main.13953ec5.css.map": "/emote-resizer/static/css/main.13953ec5.css.map",
+    "main.99c198aa.js.map": "/emote-resizer/static/js/main.99c198aa.js.map",
+    "453.f9ba44e8.chunk.js.map": "/emote-resizer/static/js/453.f9ba44e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13953ec5.css",
-    "static/js/main.772fbec7.js"
+    "static/js/main.99c198aa.js"
   ]
 }
